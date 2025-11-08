@@ -1,5 +1,5 @@
 # Deskripsi Assignment
-Building Dashbiard with Streamlit
+Building Dashboard with Streamlit
 
 # Memahami Dataset
 Identifikasi variabel utama seperti Customer ID, transaksi, frekuensi pembelian, total belanja.
